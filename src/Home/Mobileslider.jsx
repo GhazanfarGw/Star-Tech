@@ -9,7 +9,7 @@ const slides = [
 
     {
         eachSlide: 'url(./Bold-Beautiful-Black-Bedroom-Inspirations-Preview.jpg)',
-        heading: 'Mattress Accessories',
+        heading: 'Mattress Tape Edge',
         text: 'Startech Provides complete mattress tape production plan and high-speed machines produces high-quality mattress tape...'
     },
 
