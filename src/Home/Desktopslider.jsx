@@ -9,7 +9,7 @@ const slides = [
 
     {
         eachSlide: 'url(./Bold-Beautiful-Black-Bedroom-Inspirations-Preview.jpg)',
-        heading: 'Mattress Tape Edge',
+        heading: 'Mattress Accessories',
         text: 'Startech Provides complete mattress tape production plan and high-speed machines produces high-quality mattress tape...'
     },
 
@@ -57,7 +57,7 @@ const Dashboard = () => {
             className='each-slide items-center' 
             key={ index } 
             style={{ backgroundImage: item.eachSlide }}>
-            <div data-aos="fade-right" data-aos-delay="300" data-aos-duration="400"  data-aos-easing="ease-in-sine" 
+            <div
             className='text-white bg-black relative top-0 bottom-0 bg-opacity-50 xl:mx-44 xl:my-52 xl:py-32 lg:mx-20 lg:my-40 lg:py-20 md:my-60 md:py-32 md:mx-20 my-40 py-16 mx-10 px-5 items-center justify-center text-center'>
                 <h1 className="slide-heading xl:text-6xl lg:text-5xl md:text-4xl text-2xl text-white md:max-w-2xl mx-auto justify-center font-displace">{item.heading}</h1>
                 <p className="slide-text xl:text-lg lg:text-base md:text-base text-sm py-5 max-w-screen-md mx-auto justify-center ">{item.text}</p>
