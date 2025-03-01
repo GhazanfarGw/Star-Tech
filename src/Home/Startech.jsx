@@ -1,13 +1,11 @@
-import React,{useEffect} from "react";
-import Aos from "aos";
-import 'aos/dist/aos.css';
+import React from "react";
 
 
 function Description() {
     return (
       <>
         <div className="max-w-screen-2xl md:px-10 px-5 mx-auto py-32">
-          <div data-aos="zoom-in-up" data-aos-delay="300" data-aos-duration="400" className="md:pt-40 pt-16 md:flex justify-between">
+          <div className="md:pt-40 pt-16 md:flex justify-between">
             <div>
             <h5 className="font-displace md:text-5xl text-2xl md:max-w-lg">
                 What is Startech FZC?
