@@ -46,7 +46,7 @@ function Partners() {
    return (
     <>
     <div className='mx-0 px-5 items-center md:py-20 text-[#8A8A8A] bg-[#DFDFDF]'>
-      <div data-aos="zoom-in-up" data-aos-delay="300" className='max-w-screen-xl items-center mx-auto overflow-hidden text-[#8A8A8A]'>
+      <div className='max-w-screen-xl items-center mx-auto overflow-hidden text-[#8A8A8A]'>
         <h1 className='text-[#8A8A8A] md:text-4xl text-2xl justify-center pt-5 text-center'>Trusted by over 1k+ companies</h1>
 
         <Slider {...settings} className='flex mx-auto items-center gap-4 pt-5 text-[#fff] max-w-screen-lg'>
