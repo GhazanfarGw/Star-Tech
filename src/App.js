@@ -8,6 +8,7 @@ import Webbing from "./Safe Elastic Webbing/Index"
 import Certificates from "./Certificates/Index"
 import Catalouge from "./Catalouge/Index"
 import About from "./About/Index"
+import Contact from "./Home/Contact"
 
 function App() {
   const [loading, setLoading] = useState(true);
@@ -34,7 +35,7 @@ function App() {
           <Route path="/safe-elastic" element={ <Webbing/> } />
           <Route path="/catalouge" element={ <Certificates/> } />
           <Route path="/certificates" element={ <Catalouge/> } />
-          {/* <Route path="/contact-us" element={ <Home/> } /> */}
+          <Route path="/contact-us" element={ <Contact/> } />
         </Routes>
       )}
     </>
