@@ -96,7 +96,7 @@ const Footer = () => {
                 </div>
                 <div className='justify-center mx-auto md:text-center pt-3 px-5 border-t border-[#ffffff]'>
                     <p className='md:text-sm text-xs text-[#FFF] md:py-2 pt-5 py-3'>
-                    Copyright &copy; 2025 Startech FZC Authority. All rights reserved
+                    Copyright &copy; 2025 Startech Authority. All rights reserved
                     </p>
                 </div>
             </div>
