@@ -125,7 +125,7 @@ const Contact = () => {
                                 />
                             </div>
                             <div className='items-center'>
-                                <button className='bg-[#403F68] px-10 tracking-wider py-2 md:mt-10 mt-5 text-white' type="submit">
+                                <button className='bg-gradient-to-r from-[#11AE88] to-[#1591B3] text-white md:px-10 md:py-4 py-2 px-8 justify-center mx-auto md:mt-10 mt-5 text-center md:font-semibold' type="submit">
                                     {loading ? 'Loading...' : 'Submit'}
                                 </button>
                             </div>
