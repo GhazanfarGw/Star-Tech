@@ -11,7 +11,7 @@ const Footer = () => {
               <div className='bg-gradient-to-r from-[#11AE88] to-[#1591B3] z-10 relative'>
                 <div className='max-w-screen-xl mx-auto justify-center md:pt-20 md:pb-10 md:px-10 md:py-10 pt-7'>
                   <h1 className='text-[#ffffff] md:text-base text-sm justify-center pb-5 px-5 '>
-                    Website last updated: January 4, 2025
+                    Website last updated: March 20, 2025
                   </h1>
                   <div className='md:grid md:grid-cols-4 md:gap-8 max-w-screen-2xl mx-auto justify-center py-5 text-[#ffffff] px-7'>
                     <div className=''>
