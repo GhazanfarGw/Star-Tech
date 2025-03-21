@@ -18,7 +18,7 @@ const Dashboard = () => {
                         Star Tech is known for our attention to detail. With close proximity to annual design markets, our team has access to the top home and fashion trends before they hit mainstream consumers. We work closely with our partners in the industry to customize patterns and colors to best match our customers’ needs, creating unique tapes to accommodate a wide range of styles and tastes.
                     </p>
                     <div className="mx-auto justify-center text-center pt-16">
-                        <a href="#adhesiv" data-aos="zoom-in-up" data-aos-delay="200" data-aos-duration="400" className='bg-gradient-to-r from-[#11AE88] to-[#1591B3] text-white md:px-10 md:py-4 py-2 px-8 justify-center mx-auto text-center md:font-semibold'>
+                        <a href="./" data-aos="zoom-in-up" data-aos-delay="200" data-aos-duration="400" className='bg-gradient-to-r from-[#11AE88] to-[#1591B3] text-white md:px-10 md:py-4 py-2 px-8 justify-center mx-auto text-center md:font-semibold'>
                             View Latest Samples
                         </a>
                     </div>
