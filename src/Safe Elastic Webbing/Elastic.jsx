@@ -9,7 +9,7 @@ const Dashboard = () => {
     return (
         <>
         <div className='bg-[#171717]'>
-            <div className='text-white justify-center items-center mx-auto max-w-screen-xl pt-10 md:px-10 px-5'>
+            <div className='text-white justify-center items-center mx-auto max-w-screen-xl py-10 md:px-10 px-5'>
                 <div className="md:grid md:grid-cols-2 mx-auto justify-center items-center">
                     <div className="block md:hidden lg:hidden">
                         <img className="hover:scale-105 duration-200" src="./Taps.jpg" alt="" />
