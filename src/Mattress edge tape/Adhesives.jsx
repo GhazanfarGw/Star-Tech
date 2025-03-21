@@ -16,7 +16,8 @@ export default function App() {
   return (
     <>
     <div id='adhesiv' className='mx-auto justify-center md:px-10 px-5 max-w-screen-2xl md:mt-10 flex'>
-        <Swiper
+        <p className="text-black">Scroll Left</p>
+      <Swiper
             effect={'coverflow'}
             grabCursor={true}
             centeredSlides={true}
